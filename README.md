@@ -1,3 +1,3 @@
 # ThingsBoard-
 
-This repository is for the program in which the integration of ThingBoard with NodeMCU takes place.
+The repository contains the program responsible for integration of NodeMCU board with ThingsBoard IoT Platform.
